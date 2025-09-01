@@ -19,7 +19,7 @@ function Topbar({ onNewTask }: TopbarProps) {
   return (
     <header className="flex items-center justify-between px-6 py-4 bg-white border-b">
       <div className="flex items-center gap-4">
-        <h2 className="text-xl font-bold">Task</h2>
+        <h2 className="text-xl font-bold">Taskgedrfgwer</h2>
         <div className="relative">
           <input
             type="text"
